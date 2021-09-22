@@ -48,5 +48,5 @@ while True:
     qwertyuiop += 1
     put()
     time.sleep(0.1)
-
 print("enddddddddddddddd")
+jdlfkajskldjakljda
